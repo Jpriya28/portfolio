@@ -33,7 +33,7 @@ Provides social media links and email for alternative contact methods.
 
 Includes copyright information and quick links to social media profiles.
 # Check out the file
-Click [] here to visit my portfolio website.
+Click [https://jpriya28.github.io/portfolio/] here to visit my portfolio website.
 
 # Contributing
 
